@@ -1,0 +1,15 @@
+int64 ballX
+int64 ballY
+int64 ballDist
+float64 ballTheta
+int64 cylinderX
+int64 cylinderY
+int64 cylinderDist
+float64 cylinderTheta
+int64 directX
+int64 directY
+int64 directDist
+float64 directTheta
+int64 first_start
+int64 circlex
+int64 circley
