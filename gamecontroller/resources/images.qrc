@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/Icons">
+        <file>images/mmp.png</file>
+        <file>images/robit.png</file>
+    </qresource>
+    <qresource prefix="/Backgrounds">
+        <file>Backgrounds/background.png</file>
+    </qresource>
+    <qresource prefix="/Icon">
+        <file>Icons/camera.png</file>
+        <file>Icons/close.png</file>
+        <file>Icons/exit.png</file>
+        <file>Icons/joystick.png</file>
+        <file>Icons/joystickBig.png</file>
+        <file>Icons/keyboard.png</file>
+        <file>Icons/madeBy.png</file>
+        <file>Icons/menual.png</file>
+        <file>Icons/mode.png</file>
+        <file>Icons/network.png</file>
+        <file>Icons/open.png</file>
+        <file>Icons/PCBig.png</file>
+        <file>Icons/refresh.png</file>
+        <file>Icons/save.png</file>
+        <file>Icons/setting.png</file>
+        <file>Icons/velocity.png</file>
+        <file>Icons/version.png</file>
+    </qresource>
+</RCC>
